@@ -1,0 +1,15 @@
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\bin\Debug\net6.0\Zet001.exe
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\bin\Debug\net6.0\Zet001.deps.json
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\bin\Debug\net6.0\Zet001.runtimeconfig.json
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\bin\Debug\net6.0\Zet001.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\bin\Debug\net6.0\Zet001.pdb
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\Zet001.csproj.AssemblyReference.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\Zet001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\Zet001.AssemblyInfoInputs.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\Zet001.AssemblyInfo.cs
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\Zet001.csproj.CoreCompileInputs.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\Zet001.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\refint\Zet001.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\Zet001.pdb
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\Zet001.genruntimeconfig.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Zet001\obj\Debug\net6.0\ref\Zet001.dll
