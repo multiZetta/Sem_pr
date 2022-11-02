@@ -1,0 +1,15 @@
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\bin\Debug\net6.0\Sem_3.exe
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\bin\Debug\net6.0\Sem_3.deps.json
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\bin\Debug\net6.0\Sem_3.runtimeconfig.json
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\bin\Debug\net6.0\Sem_3.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\bin\Debug\net6.0\Sem_3.pdb
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\Sem_3.csproj.AssemblyReference.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\Sem_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\Sem_3.AssemblyInfoInputs.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\Sem_3.AssemblyInfo.cs
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\Sem_3.csproj.CoreCompileInputs.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\Sem_3.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\refint\Sem_3.dll
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\Sem_3.pdb
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\Sem_3.genruntimeconfig.cache
+C:\Users\kulik\OneDrive\Рабочий стол\GeekBrains\PR_GB\PR_Csharp\Sem_pr\Sem_3\obj\Debug\net6.0\ref\Sem_3.dll
