@@ -126,6 +126,6 @@ Console.WriteLine(ans);
 
 while (value > 1000) value = value /10;
 Console.WriteLine(value % 10);
-}
+} */
 
 

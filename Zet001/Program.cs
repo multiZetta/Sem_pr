@@ -1,5 +1,9 @@
-﻿int number = new Random().Next(1,10);
-int result = number * number;
-Console.WriteLine(result);
+﻿/* int a = new Random().Next(1, 10);
+Console.WriteLine(a);
+int b = new Random().Next(1, 10);
+while (a = b * b)
+{
+    
+} */
 
 
